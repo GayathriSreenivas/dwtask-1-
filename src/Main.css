@@ -1,0 +1,151 @@
+.main{
+    background-image: linear-gradient(to bottom ,rgb(75, 73, 73), rgb(184, 184, 184));
+    display:flex;
+    height: 100vh;
+    font-family:'Roboto';
+   
+}
+
+.first{
+    background-color:rgb(86, 181, 245);
+    height :85vh;
+    width : 60vh;
+    margin-left:40vh;
+    margin-top:9vh;
+    border-top-left-radius:5%;
+    border-bottom-left-radius: 5%;
+    box-shadow:  1px 8px 7px rgb(70, 70, 70);
+    color:white;
+   
+}
+
+.second{
+    background-color:white;
+    height : 85vh;
+    width : 60vh;
+    margin-top:9vh;
+    border-top-right-radius:5%;
+    border-bottom-right-radius:5%;
+    box-shadow:  1px 8px 7px rgb(70, 70, 70);
+    color:grey;
+}
+
+.rental{
+    margin-top:5vh;
+    font-size: 4vh;
+
+}
+
+.welcome{
+    margin-top:7vh;
+    margin-left:2vh;
+    font-size:4vh;
+}
+
+.text{
+    margin-top:8vh;
+    margin-left:3vh;
+    margin-right:3vh;
+    font-size:2.5vh;
+}
+
+.one{
+    margin-top:3vh;
+    color:rgb(122, 122, 122);
+    margin-left:-4vh;
+}
+p{
+   text-align:left;
+   margin-left:3vh;
+}
+.two{
+    margin-top:3vh;
+    color:rgb(122, 122, 122);
+    font-size:2vh;
+    margin-left:-5vh;
+}
+
+.three{
+    margin-top:3vh;
+    margin-left:-2vh;
+    
+    
+}
+
+.four{
+    margin-top:3vh;
+    color:rgb(122, 122, 122); 
+    font-size:2vh;
+    margin-left:-5vh;
+}
+
+.five{
+    width:50vh;
+    height:5vh;
+    color:grey;
+    margin-top:3vh;
+    border-color:rgb(121, 197, 228);
+    border-radius:5px;
+    margin-left:-4.5vh;
+}
+.registername{
+    width:50vh;
+    height:5vh;
+    color:grey;
+    margin-top:3vh;
+    border-color:rgb(121, 197, 228);
+    border-radius:5px;
+    margin-left:-4.5vh;
+    border:none;
+}
+
+.six{
+    width:50vh;
+    height:5vh;
+    color:grey;
+    margin-top:3vh;
+    border-color:rgb(121, 197, 228);
+    border-radius:5px;
+    margin-left:2vh;
+}
+
+.seven{
+    color:rgb(32, 161, 184);
+    margin-top: 2vh;
+    margin-left:0.5vh;
+}
+
+.eight{
+    background-color:rgb(92, 193, 211);
+    margin-top:2vh;
+    margin-left:-5vh;
+    width:51.5vh;
+    height:6vh;
+    border-color:rgb(92, 193, 211) ;
+    border-radius:5px;
+    color:white;
+    font-size:2.5vh;
+    box-shadow:  1px 8px 7px rgb(122, 122, 122);
+}
+.nine{
+    margin-top:4vh;
+    color:grey;
+}
+
+.ten{
+    border-color: red;
+    color:red;
+    background-color: white;
+    height: 6vh;
+    width: 51.5vh;
+    margin-top:3vh;
+    margin-left:-5vh;
+    border-radius:5px;
+    box-shadow:  1px 8px 7px rgb(122, 122, 122);
+    
+}
+
+.password{
+    display:flex;
+
+}
